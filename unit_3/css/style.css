@@ -1,9 +1,9 @@
 body 
 	{
 	text-align: center;
-	background-color: rgb(255,255,255)
+	background: url("http://i.imgur.com/q0FaaAk.png");
 	background-size: cover;
-	color:rgb(0,0,0);
+	color:rgb(255,255,255);
 	font-family: helvetica;
 	}
 h1
@@ -17,6 +17,6 @@ hr
 	}
 #slogan 
 	{
-	font: italic;
+	font-transform: italic;
 	font-size: 20px;
 	}
