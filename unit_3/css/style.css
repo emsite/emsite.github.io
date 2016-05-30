@@ -3,7 +3,7 @@ body
 	text-align: center;
 	background: url("http://images.freeimages.com/images/previews/0a7/farm-1192062.jpg");
 	background-size: cover;
-	color:rgb(255,255,255);
+	color:rgb(0,0,0);
 	font-family: helvetica;
 	}
 h1
@@ -15,9 +15,10 @@ h1
 hr
 	{
 	width: 300px;
+	color: rgb(0,0,0);
 	}
 #slogan 
 	{
-	font-transform: italic;
+	font: italic;
 	font-size: 20px;
 	}
