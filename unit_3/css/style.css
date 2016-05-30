@@ -1,7 +1,7 @@
 body 
 	{
 	text-align: center;
-	background: url("http://imgur.com/gallery/iuTIwuK?reg");
+	background: url("http://images.freeimages.com/images/previews/0a7/farm-1192062.jpg");
 	background-size: cover;
 	color:rgb(255,255,255);
 	font-family: helvetica;
@@ -10,7 +10,8 @@ h1
 	{
 	font-size:40px;
 	text-decoration: underline;
-	text-transform: uppercase;}
+	text-transform: uppercase;
+	}
 hr
 	{
 	width: 300px;
