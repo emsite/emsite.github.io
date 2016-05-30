@@ -1,14 +1,13 @@
 body 
 	{
 	text-align: center;
-	background: url("http://imgur.com/gallery/HGn2cIG.png");
+	background-color: rgb(0.0,0)
 	background-size: cover;
-	color:rgb(0,0,0);
+	color:rgb(255,0,255);
 	font-family: helvetica;
 	}
 h1
 	{
-	color: rgb (255,0,255);
 	font-size:20px;
 	text-decoration: underline;
 	text-transform: uppercase;}
