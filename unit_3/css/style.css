@@ -1,0 +1,25 @@
+body 
+	{
+	text-align: center;
+	background: image src="unit_3/images/P3110146.jpg";
+	background-size: cover;
+	color:rgb(0,0,0);
+	font-family: helvetica;
+	}
+h1
+	{
+	color: rgb (255,0,255);
+	font-size:20px;
+	text-decoration: underline;
+	text-transform: uppercase;}
+hr
+	{
+	width: 200px;
+	}
+#slogan 
+	{
+	font: italic;
+	font-size: 10px;
+	}
+img
+	{background}
