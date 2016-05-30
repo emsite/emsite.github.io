@@ -1,7 +1,7 @@
 body 
 	{
 	text-align: center;
-	background: url"http://imgur.com/gallery/HGn2cIG.png"
+	background: url("http://imgur.com/gallery/HGn2cIG.png");
 	background-size: cover;
 	color:rgb(0,0,0);
 	font-family: helvetica;
@@ -21,5 +21,3 @@ hr
 	font: italic;
 	font-size: 10px;
 	}
-img
-	{background}
