@@ -4,7 +4,14 @@ body
 	background: url("http://images.freeimages.com/images/previews/0a7/farm-1192062.jpg");
 	background-size: cover;
 	color:rgb(0,0,0);
-	font-family: helvetica;
+	font-family: palatino, georgia, serif;
+	font-size: 18px;
+	font-height: 1.5em;
+	margin: 2em;
+	}
+ul
+	{
+	margin:10em;
 	}
 h1
 	{
