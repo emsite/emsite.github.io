@@ -2,7 +2,7 @@ body
 	{
 	text-align: center;
 	background: url("http://images.freeimages.com/images/previews/0a7/farm-1192062.jpg");
-	background-size: cover;
+	background-size: contain;
 	color:rgb(0,0,0);
 	font-family: palatino, georgia, serif;
 	font-size: 18px;
