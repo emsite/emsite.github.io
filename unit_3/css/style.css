@@ -1,34 +1,27 @@
-body 
-	{
+body {
 	text-align: center;
 	background: rgb(0,0,0);
 	color:rgb(255,255,255);
 	font-family: palatino, georgia, sans-serif;
 	font-size: 18px;
 	font-height: 1.5em;
-	margin: 2em;
-	}
-img
-	{
+	margin: 2em;}
+img {
 	height:400px;
 	width:1000px;}
-ul
-	{
+ul  {
 	margin:10em;
-	color: rgb(255,255,255);
-	font: bold;
-	}
+	color: rgb(255,255,255);}
+li  {
+	font: bold;}
 p   {
-	margin:2em;
-	}
-h1
-	{
+	margin:2em;}
+h1  {
 	font-size:3em;
 	text-decoration: underline;
 	text-transform: uppercase;
 	}
-hr
-	{
+hr  {
 	width: 300px;
 	color: rgb(0,0,0);
 	}
