@@ -1,22 +1,22 @@
 body 
 	{
 	text-align: center;
-	background: rgb(255,0,255);
-	color:rgb(0,0,0);
-	font-family: palatino, georgia, serif;
+	background: rgb(0,0,0);
+	color:rgb(255,255,255);
+	font-family: palatino, georgia, sans-serif;
 	font-size: 18px;
 	font-height: 1.5em;
 	margin: 2em;
 	}
 img
 	{
-	height:200px;
-	width:500px;}
+	height:400px;
+	width:1000px;}
 ul
 	{
 	margin:10em;
 	color: rgb(255,255,255);
-	font-size: bold;
+	font: bold;
 	}
 p   {
 	margin:2em;
@@ -34,6 +34,6 @@ hr
 	}
 #slogan 
 	{
-	font: italic;
+	font-family: cursive;
 	font-size: 20px;
 	}
