@@ -1,7 +1,8 @@
 body 
 	{
 	text-align: center;
-	background: url("http://images.freeimages.com/images/previews/0a7/farm-1192062.jpg");
+	background: color: rgb(255,0,255);
+	image: width: 500px;
 	background-size: cover;
 	color:rgb(0,0,0);
 	font-family: palatino, georgia, serif;
@@ -9,6 +10,8 @@ body
 	font-height: 1.5em;
 	margin: 2em;
 	}
+img
+	{width:500px;}
 ul
 	{
 	margin:10em;
