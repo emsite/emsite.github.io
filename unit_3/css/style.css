@@ -9,9 +9,14 @@ body
 	font-height: 1.5em;
 	margin: 2em;
 	}
-ul,p
+ul
 	{
 	margin:10em;
+	color: rgb(255,255,255);
+	font-size: bold;
+	}
+p   {
+	margin:2em;
 	}
 h1
 	{
