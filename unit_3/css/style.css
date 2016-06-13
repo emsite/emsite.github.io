@@ -7,8 +7,8 @@ body {
 	font-height: 1.5em;
 	margin: 2em;}
 img {
-	height:400px;
-	width:1000px;}
+	height:auto;
+	min-width:100%;}
 ul  {
 	margin:10em;
 	color: rgb(255,255,255);}
