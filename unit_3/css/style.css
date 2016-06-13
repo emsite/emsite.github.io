@@ -3,11 +3,11 @@ body {
 	background: rgb(0,0,0);
 	color:rgb(255,255,255);
 	font: Arial black, bold, sans-serif;
-	font-size: 18px;
+	font-size: 20px;
 	font-height: 1em;
 	margin: 2em;}
 img {
-	height: 600px;
+	height: 400px;
 	width:cover;}
 ul  {
 	margin:10em;
