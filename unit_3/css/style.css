@@ -2,9 +2,9 @@ body {
 	text-align: center;
 	background: rgb(0,0,0);
 	color:rgb(255,255,255);
-	font-family: palatino, georgia, sans-serif;
+	font: Arial black, bold, sans-serif;
 	font-size: 18px;
-	font-height: 1.5em;
+	font-height: 1em;
 	margin: 2em;}
 img {
 	height: 1.5 auto;
@@ -13,7 +13,7 @@ ul  {
 	margin:10em;
 	color: rgb(255,255,255);}
 li  {
-	font: bold;}
+	font: bolder;}
 p   {
 	margin:2em;}
 h1  {
