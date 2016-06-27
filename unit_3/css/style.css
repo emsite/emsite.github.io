@@ -5,7 +5,8 @@ body {text-align: center;
 	font-size: 20px;
 	font-height: 1em;
 	margin: 2em;}
-img {background-size: cover;}
+img {background-size: cover;
+	margin: 0 auto;}
 ul  {margin:10em;
 	color: rgb(255,255,255);}
 li  {font: bolder;}
