@@ -30,3 +30,7 @@ hr  {
 	font-family: cursive;
 	font-size: 20px;
 	}
+#wrapper
+	{background: white;
+	width: 960px;
+	margin: 0 auto;}
