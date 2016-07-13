@@ -25,9 +25,9 @@ h1 {font: 20px bold;
 		width: 300px;
 		padding:10px;
 		border: 6px, solid, black;
-		margin:0px;
-		background-image: url(image/P3220379.JPG);
-		background size: 300px, 400px;}
+		margin:0px;}
+		
+img {size:300px, 400px;}
 
 h2 {font:15px bold;
 	font-style: cursive;}
