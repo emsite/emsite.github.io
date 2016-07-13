@@ -1,13 +1,15 @@
-body {background-color: black;}
+body {background-color: black;
+text-align: center;}
 
 #header {background-color:orange;
 		height:70px;
 		width: 100%;
 		padding:10px;
 		border: 6px solid black;
-		margin:0px;
-		text-align: center;
-		text-transform: cursive;}
+		margin:0px;}
+
+h1 {size: bold;
+	text-transform: cursive;}
 
 #nav {background-color:yellow;
 		height:30px;
@@ -22,6 +24,8 @@ body {background-color: black;}
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
+h2 {size: bold;
+	text-transform: cursive;}
 
 #footer {background-color:lightblue;
 		height:30px;
