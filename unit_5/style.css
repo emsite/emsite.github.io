@@ -1,4 +1,5 @@
-body {text-align: center;
+body 
+	{text-align: center;
 	background: rgb(0,0,0);
 	color:rgb(255,255,255);
 	font: Arial black, bold, sans-serif;
@@ -6,18 +7,27 @@ body {text-align: center;
 	font-height: 1em;
 	margin: 2em;}
 
-.hero {
-  background: url("http://i.imgur.com/pdsjjxD.jpg") no-repeat center center;
-  background-size: cover;
+img 
+	{background-size: cover;
+	margin: auto;}
 
-h1  {font-size:3em;
+header
+	{text-align: center}
+
+h1  
+	{font-size:3em;
 	text-decoration: underline;
 	text-transform: uppercase;}
 
-hr  {width: 300px;
+hr  
+	{width: 300px;
 	color: rgb(0,0,0);}
 
-h2  {font-size:2em;
+h2  
+	{font-size:2em;
 	text-decoration: underline;
 	text-transform: uppercase;}
+
+footer 
+	{text-align: center}
 
