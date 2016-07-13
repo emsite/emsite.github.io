@@ -5,7 +5,7 @@ body 	{background-color: black;
 
 #header {background-color:orange;
 		height:70px;
-		width: 100%;
+		width: 300px;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;}
@@ -15,26 +15,26 @@ h1 {font: 20px bold;
 
 #nav {background-color:yellow;
 		height:30px;
-		width: 100%;
+		width: 300px;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;}
 
 #content {background-color:red;
-		height:800px;
-		width: 100%;
+		height:400px;
+		width: 300px;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;
 		background-image: url(image/P3220379.JPG);
-		background size: 100%, 800px;}
+		background size: 300px, 400px;}
 
 h2 {font:15px bold;
 	font-style: cursive;}
 
 #footer {background-color:lightblue;
 		height:30px;
-		width: 100%;
+		width: 300px;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;}
