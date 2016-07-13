@@ -1,0 +1,30 @@
+body {background-color: black;}
+
+#header {background-color:orange;
+		height:50px;
+		width: 80%;
+		padding:10px;
+		border: 6px solid black;
+		margin:0px;}
+
+#nav {background-color:yellow;
+		height:30px;
+		width: 80%;
+		padding:10px;
+		border: 6px solid black;
+		margin:0px;}
+
+#content {background-color:red;
+		height:200px;
+		width: 80%;
+		padding:10px;
+		border: 6px solid black;
+		margin:0px;}
+
+#footer {background-color:lightblue;
+		height:50px;
+		width: 80%;
+		padding:10px;
+		border: 6px solid black;
+		margin:0px;}
+
