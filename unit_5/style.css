@@ -9,8 +9,7 @@ background-color: rgb(255,255,0);
 width: 100%;
 }
 
-#hero{
-  background-image:url("http://i.imgur.com/xw58MpH.jpg");
+img{
   background-size:cover;
   position:relative;
   height:100vh;
