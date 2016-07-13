@@ -26,11 +26,10 @@ h1 {size: bold;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;
-		overflow: hidden;}
+		overflow: hidden;
+		background-image: url("image/P3220379.JPG");
+		background: cover;}
 
-#content img{
-    min-width:100%;
-    min-height:100%}
 
 h2 {size: bold;
 	font-style: cursive;}
