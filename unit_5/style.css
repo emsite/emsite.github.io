@@ -21,13 +21,11 @@ h1 {size: bold;
 		margin:0px;}
 
 #content {background-color:red;
-		height:430px;
+		height:500px;
 		width: 100%;
 		padding:10px;
 		border: 6px, solid, black;
 		margin:0px;}
-
-img {size: cover;}
 
 h2 {size: bold;
 	font-style: cursive;}
