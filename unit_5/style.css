@@ -27,7 +27,9 @@ h1 {size: bold;
 		border: 6px, solid, black;
 		margin:0px;}
 
-img {size:cover;}
+img {height: 500px;
+	width: 100%;
+	margin:5px 5px;}
 
 h2 {size: bold;
 	font-style: cursive;}
