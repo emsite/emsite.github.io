@@ -1,37 +1,39 @@
 body 	{background-color: black;
 		color: white;
 		text-align: center;
-		font: Arial sans-serif;}
+		font-family: Arial sans-serif;}
 
 #header {background-color:orange;
 		height:70px;
 		width: 100%;
 		padding:10px;
-		border: 6px solid black;
+		border: 6px, solid, black;
 		margin:0px;}
 
-h1 {size: bold cursive}
+h1 {size: bold;
+	font-style: cursive;}
 
 #nav {background-color:yellow;
 		height:30px;
 		width: 100%;
 		padding:10px;
-		border: 6px solid black;
+		border: 6px, solid, black;
 		margin:0px;}
 
 #content {background-color:red;
 		height:430px;
 		width: 100%;
 		padding:10px;
-		border: 6px solid black;
+		border: 6px, solid, black;
 		margin:0px;}
-h2 {size: bold cursive;
-	text-transform: cursive;}
+
+h2 {size: bold;
+	font-style: cursive;}
 
 #footer {background-color:lightblue;
 		height:30px;
 		width: 100%;
 		padding:10px;
-		border: 6px solid black;
+		border: 6px, solid, black;
 		margin:0px;}
 
