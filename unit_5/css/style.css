@@ -1,29 +1,35 @@
-body {background-color: black;}
+body {background-color: black;
+text-align: center;}
 
 #header {background-color:orange;
-		height:50px;
-		width: 80%;
+		height:70px;
+		width: 100%;
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
 
+h1 {size: bold;
+	text-transform: cursive;}
+
 #nav {background-color:yellow;
 		height:30px;
-		width: 80%;
+		width: 100%;
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
 
 #content {background-color:red;
-		height:200px;
-		width: 80%;
+		height:400px;
+		width: 100%;
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
+h2 {size: bold;
+	text-transform: cursive;}
 
 #footer {background-color:lightblue;
-		height:50px;
-		width: 80%;
+		height:30px;
+		width: 100%;
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
