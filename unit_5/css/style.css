@@ -9,7 +9,7 @@ body {background-color: black;
 		border: 6px solid black;
 		margin:0px;}
 
-h1 {size: 2.5em, bold;
+h1 {size: 2em, bold;
 	text-transform: cursive;}
 
 #nav {background-color:black;
@@ -26,16 +26,16 @@ h1 {size: 2.5em, bold;
 		border: 6px solid black;
 		margin:0px;}
 
-#content img {width: 100%;
+#content img {width: 80%;
 	position: relative;
-    height: 500px;}
+    height: 400px;}
 
 p {position: absolute;}
 
 h2 {size: bold;
 	text-transform: cursive;}
 
-#footer {background-color:black;
+#footer {background-color:lightblue;
 		height:50px;
 		width: 100%;
 		padding:10px;
