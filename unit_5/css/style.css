@@ -3,7 +3,7 @@ body {background-color: black;
 	text-align: center;}
 
 #header {background-color:red;
-		top:20px;
+		top:auto;
 		height:70px;
 		width: 100%;
 		padding:10px;
@@ -14,7 +14,7 @@ h1 {size: 1.5em, bold;
 	text-transform: cursive;}
 
 #nav {background-color:green;
-		top:90px;
+		top:auto;
 		height:30px;
 		width: 100%;
 		padding:10px;
@@ -22,7 +22,7 @@ h1 {size: 1.5em, bold;
 		margin:0px;}
 
 #content {background-color:blue;
-		top: 110px;
+		top: auto;
 		height:500px;
 		width: 100%;
 		padding:10px;
@@ -36,7 +36,7 @@ h1 {size: 1.5em, bold;
 h2  {size: bold;
 	position: absolute;
 	text-transform: cursive;
-	top: 115px;
+	top: auto;
    	left: 0px; right:0px;
   	width: 60%;
    	margin: 0 auto;
@@ -45,14 +45,14 @@ h2  {size: bold;
  p {size: bold;
 	position: absolute;
 	text-transform: cursive;
-	top: 135px;
+	top: auto;
    	left: 0px; right:0px;
   	width: 60%;
    	margin: 0 auto;
     height: 50px;}
 
 #footer {background-color:lightblue;
-		top: 610px;
+		top: auto;
 		height:50px;
 		width: 100%;
 		padding:10px;
