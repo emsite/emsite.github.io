@@ -33,7 +33,7 @@ h1 {size: 1.5em, bold;
 h2,p {size: bold;
 	position: absolute;
 	text-transform: cursive;
-	top: 200px;
+	top: 0px;
    	left: 0px; right:0px;
   	width: 60%;
    	margin: 0 auto;
