@@ -30,10 +30,19 @@ h1 {size: 1.5em, bold;
 	position: relative;
     height: 400px;}
 
-h2,p {size: bold;
+h2  {size: bold;
 	position: absolute;
 	text-transform: cursive;
 	top: 0px;
+   	left: 0px; right:0px;
+  	width: 60%;
+   	margin: 0 auto;
+    height: 50px;}
+
+ p {size: bold;
+	position: absolute;
+	text-transform: cursive;
+	top: 20px;
    	left: 0px; right:0px;
   	width: 60%;
    	margin: 0 auto;
