@@ -24,11 +24,12 @@ h1 {size: bold;
 		padding:10px;
 		border: 6px solid black;
 		margin:0px;}
-		
+
 h2 {size: bold;
 	text-transform: cursive;}
 
-img {width:100%, height:400px;}
+img {width:30px;
+	 height:40px}
 
 #footer {background-color:lightblue;
 		height:30px;
