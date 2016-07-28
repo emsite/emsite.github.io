@@ -50,3 +50,17 @@ h2  {size: bold;
 		border: 6px solid black;
 		margin:0px;}
 
+a {background:color:grey;
+	color:white;
+	text-decoration:none;
+	float: left;
+	padding:20px;}
+
+.clearfix:after {visibility:hidden;
+				display:block;
+				content:" ";
+				height:0;
+				font-size:0;}
+
+a:hover {background-color:orange;}
+
