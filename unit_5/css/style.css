@@ -40,7 +40,8 @@ h2  {size: bold;
 		width: 100%;
 		padding:10px;
 		border: 6px solid black;
-		margin:0px;}
+		margin:0px;
+		float:right;}
 
 a {background:color:grey;
 	color:white;
