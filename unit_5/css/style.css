@@ -2,7 +2,7 @@ body {background-color: black;
 	color: white;
 	text-align: center;}
 
-#header {background-color:red;
+#header {background-color:black;
 		top:auto;
 		height:70px;
 		width: 100%;
@@ -13,17 +13,9 @@ body {background-color: black;
 h1 {size: 1.5em, bold;
 	text-transform: cursive;}
 
-#nav {background-color:green;
-		top:auto;
-		height:30px;
-		width: 100%;
-		padding:10px;
-		border: 6px solid black;
-		margin:0px;}
-
-#content {background-color:blue;
+#content {background-color:black;
 		top: auto;
-		height:500px;
+		height:600px;
 		width: 100%;
 		padding:10px;
 		border: 6px solid black;
@@ -42,7 +34,7 @@ h2  {size: bold;
    	margin: 0 auto;
     height: 50px;}
 
-#footer {background-color:lightblue;
+#footer {background-color:black;
 		top: auto;
 		height:50px;
 		width: 100%;
