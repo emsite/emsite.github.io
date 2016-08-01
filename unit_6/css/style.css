@@ -33,6 +33,36 @@ h2  {size: bold;
    	margin: 0 auto;
     height: 50px;}
 
+ #three_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 28%;
+}
+
+#middle {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 28%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 28%;
+}
+
 #footer {background-color:black;
 		top: auto;
 		height:50px;
