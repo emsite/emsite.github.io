@@ -72,6 +72,12 @@ h2  {size: bold;
 		margin:0px;
 		float:right;}
 
+.clearfix:after {visibility:hidden;
+				display:block;
+				content:" ";
+				height:0;
+				font-size:0;}
+
 a {background:color:grey;
 	color:white;
 	text-decoration:none;
