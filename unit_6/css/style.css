@@ -34,13 +34,13 @@ h2  {size: bold;
     height: 50px;}
 
  #three_column {
-    background-color: #FFB7CF;
+    background-color: rgba(255,255,255,0.5);
     border: 1px black solid;
     padding: 20px;
 }
 
 #left {
-    background-color: #E582A2;
+    background-color: rgba(255,255,255,0.5);
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -48,7 +48,7 @@ h2  {size: bold;
 }
 
 #middle {
-    background-color: #E55B88;
+    background-color: rgba(255,255,255,0.5);
     border: 1px black solid;
     padding: 20px;
     float: left;
@@ -56,7 +56,7 @@ h2  {size: bold;
 }
 
 #right {
-    background-color: #E55B88;
+    background-color: rgba(255,255,255,0.5);
     border: 1px black solid;
     padding: 20px;
     float: left;
